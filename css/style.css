@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+}
+
+#cabecalho {
+    /* Largura do elemento. */
+    width: 100%;
+    /* ALtura do elemento. */
+    height: 200px;
+    /* Cor de fundo do elemento. */
+    background-color: #222;
+}
