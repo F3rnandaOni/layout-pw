@@ -10,3 +10,31 @@
     /* Cor de fundo do elemento. */
     background-color: #222;
 }
+
+#cabecalho__titulo {
+    float: right;
+    /* Distância em relação à margem do topo da página. Está em positivo pois está se afastando da margem. */
+    margin-top: 60px;
+    /* Distância em relação à margem direita da página. Está em positivo pois está se afastando da margem. */
+    margin-right: 30px;
+    /* Tamanho da fonte. */
+    font-size: 36px;
+    font-weight: 600;
+    /* Cor da fonte. */
+    color: #FFF;
+}
+
+#cabecalho__subtitulo {
+    /* Elemento "flutuando" à direita da página, um tipo de posicionamento. Indica onde o elemento deve estar em relação à outro. */
+    float: right;
+    /* Distância em relação à margem do topo da página. Está em positivo pois está se afastando da margem. */
+    margin-top: 100px;
+    /* Distância em relação à margem direita da página. Está em negativo pois está se aproximando da margem. */
+    margin-right: -435px;
+    /* Tamanho da fonte. */
+    font-size: 28px;
+    /* Grossura da fonte. */
+    font-weight: 100;
+    /* Cor da fonte. */
+    color: #FFF;
+}
